@@ -108,5 +108,4 @@ Explore the Analysis Step through each section in the notebook to review data co
 Conclusion
 This project demonstrates the effective application of unsupervised learning to customer segmentation. By combining robust data preprocessing, thoughtful feature engineering, and multiple clustering algorithms, the analysis uncovers actionable insights that can drive targeted marketing efforts and strategic business decisions. Future work may explore additional clustering techniques or incorporate new data sources for even richer segmentation.
 
-License
-This project is licensed under the MIT License.
+
